@@ -19,13 +19,13 @@ submitForm.addEventListener("click", (event) => {
   const isEmailInvalid = !validarEmail(emailInputBox.value.trim());
 
   const isPasswordLengthLessThan6Chars =
-    passwordInputBox.value.trim().length <= 6;
+    passwordInputBox.value.trim().length < 6;
   const isPasswordLengthAtLeastOneChar =
     passwordInputBox.value.trim().length >= 1;
   const isEmailBoxEmpty = !emailInputBox.value.trim();
   const isPasswordBoxEmpty = !passwordInputBox.value.trim();
   const isPasswordLengthAtLeastSixChars =
-    passwordInputBox.value.trim().length > 6;
+    passwordInputBox.value.trim().length >= 6;
   const isEmailValid = validarEmail(emailInputBox.value.trim());
   emailErrorBox.textContent = "";
   passwordErrorBox.textContent = "";
