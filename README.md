@@ -14,7 +14,7 @@ O formulário implementado possui as seguintes validações:
 
 - **Campos obrigatórios**: Nenhum campo pode ser deixado em branco.
 - **Validação de e-mail**: O campo de e-mail deve conter um e-mail válido.
-- **Validação de senha**: A senha deve ter no mínimo 6 caracteres.
+- **Validação de senha**: A senha não deve ter 6 caracteres ou menos.
 
 ## 💡 Tecnologias Utilizadas
 
