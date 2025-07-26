@@ -1,6 +1,10 @@
 # Desafio Estágio Avati
 
-Bem-vindo ao repositório do **Desafio Estágio Avati**! Este projeto foi desenvolvido como parte de um desafio de estágio, onde foi solicitado implementar um formulário que inclui validações de entrada. Durante o desenvolvimento, aprendi a manipular estados sem o uso do React, uma experiência que me proporcionou um bom aprendizado.
+Bem-vindo ao repositório do **Desafio Estágio Avati**! 
+
+Este projeto foi desenvolvido como parte de um desafio de estágio, onde foi solicitado implementar um formulário que inclui validações de entrada. 
+
+Durante o desenvolvimento, aprendi a manipular estados **sem o uso do React** (justamente a proposta da vaga - desenvolver algo com **HTML, CSS e JS** puro), o que foi uma experiência que me proporcionou um bom aprendizado.
 
 ## 🚀 Live Demo
 
