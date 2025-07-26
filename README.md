@@ -21,6 +21,7 @@ O formulário implementado possui as seguintes validações:
 - **HTML**: Para estruturação da página.
 - **CSS**: Para o estilo da página.
 - **JavaScript**: Para manipulação de estados e validação dos campos.
+- **Figma**: Tecnologia que utilizei para prototipar tudo.
 
 ## 🎯 Funcionalidades
 
